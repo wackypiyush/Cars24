@@ -5,8 +5,7 @@ This project is a backend API for managing tasks, built with Flask and interfaci
 * Installation
 * Configuration
 * Usage
-* API Endpoints
-* Error Handling
+
   
 ## Installation
 ### Prerequisites
